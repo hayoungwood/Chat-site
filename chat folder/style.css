@@ -1,0 +1,17 @@
+body {
+	background-color: lightblue;
+}
+p{
+	color: green;
+	font-size: 18px;
+	font-family: veranda; 
+}
+}
+button {
+	width: 70px;
+	align-content: bottom; 
+
+}
+div {
+	align-content: bottom-center;
+}
